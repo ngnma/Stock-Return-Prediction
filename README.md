@@ -71,7 +71,7 @@ Feature selection is based on:
 
 ---
 
-## ⚙️ Methodoligy
+## ⚙️ Methodology
 
 ### Model Development
 
